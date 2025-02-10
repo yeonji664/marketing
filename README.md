@@ -60,3 +60,24 @@
 - **실시간 캠페인 성과 분석 대시보드 구축** ([Tableau 링크](https://public.tableau.com/app/profile/.15652791/viz/marketing_17312396594900/CustomCharts?publish=yes))
 - **ROI, 전환율, 트래픽 유입 데이터 기반 자동 최적화 모델 도입**
 - **캠페인 운영 주기 단축 및 성과 기반 예산 재배분**
+
+### 대시보드
+
+이 대시보드는 **마케팅 성과를 종합적으로 분석하고, 캠페인별 세부 성과를 평가하며, 실시간 ROI 최적화를 지원**하는 데 초점을 맞추고 있습니다.
+
+### 1. Custom Charts (맞춤형 차트)
+- **캠페인 성과 요약**: `New Visitors`, `Returning Customers`, `Segmented Audience`, `Subscribers`별 광고 노출(Ad Display), 클릭(Click), 전환(Conversion), 참여(Engagement) 데이터 제공
+- **막대 그래프**로 각 그룹별 활동량을 시각화
+- **특정 기간 조정 가능** (슬라이더 활용)
+- **컬럼 선택 기능**을 통해 분석 기준 변경 가능
+
+### 2. Campaign Details (캠페인 세부 정보)
+- 개별 `Campaign ID`별 상세 데이터 제공 (`Campaign Duration`, `Clicks`, `Conversions`, `Cost`, `Engagement Time`, `Impressions`, `ROI`, `Revenue`)
+- ROI(투자 대비 수익률) 등 성과 지표 포함한 **막대형 테이블 구성**
+- **기간 및 활동 유형(Activity Type) 필터 제공**
+
+### 3. Marketing Analysis (마케팅 분석)
+- **핵심 성과 지표 요약**: `Impressions`, `Clicks`, `ROI`, `Conversions`, `Conversion Rate`
+- **성과 변화 분석**: 시간 흐름에 따른 성과 변화를 **선 그래프**로 시각화
+- **광고 채널별 성과 비교**: `Ad Display`, `Click`, `Conversion`, `Engagement` 별 비용, 노출 수, 전환율, ROI 분석
+- **연도별 성과 비교 (YoY)**: `Impressions` -9.02%, `Clicks` -8.31%, `ROI` -9.62%, `Conversions` -6.82%, `Conversion Rate` +0.38%p
